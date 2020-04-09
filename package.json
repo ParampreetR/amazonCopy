@@ -1,0 +1,23 @@
+{
+  "name": "amazon",
+  "version": "1.0.0",
+  "description": "Copy Of Amazon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParampreetR/amazonCopy.git"
+  },
+  "author": "Parampreet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ParampreetR/amazonCopy/issues"
+  },
+  "homepage": "https://github.com/ParampreetR/amazonCopy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.3"
+  }
+}
